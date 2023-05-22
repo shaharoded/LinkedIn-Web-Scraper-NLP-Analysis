@@ -7,4 +7,6 @@ Using Threadpools and MultiThreaded process, an initial data frame is scraped.
 
 The first analysis uses a wordcloud on top of an NLTK analysis of the job descriptions.
 
-The second analysis uses GPT API to accurately extract the skills from the job descriptions
+The second analysis uses GPT API to accurately extract the skills from the job descriptions.
+
+Run the last block on the output to get a final viz of the scraper analysis
